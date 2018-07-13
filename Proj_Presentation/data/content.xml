@@ -1,0 +1,1628 @@
+<zuiprezi>
+  <version>4</version>
+  <zui-table>
+    <settings>
+      <autoplay>
+        <delay>4000</delay>
+      </autoplay>
+      <bounds x="-417423.7012390137" y="-237420.5475769043" width="834847.4024780274" height="474841.0951538086"/>
+    </settings>
+    <object id="334" type="button" x="5133.765334366596" y="137064.92292999596" r="12.42670974385683" s="9.100231955677724" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1335</w>
+        <h>966</h>
+      </size>
+    </object>
+    <object id="6_1773267" type="shape" x="-23267.364253231124" y="144100.47293687004" r="0" s="212.91721764623665" class="poly2">
+      <geom type="circle">
+        <r>108.63490748833912</r>
+      </geom>
+    </object>
+    <object id="120" type="button" x="-31703.3" y="156921.15" r="26.895623487699666" s="36.2424735346902" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>302.85</w>
+        <h>256.975</h>
+      </size>
+    </object>
+    <object id="331" type="image" x="0.01688036078458338" y="-0.027782205742011023" r="-15.267628536077689" s="273.57076246097927">
+      <source w="1478" h="1307" bt="-68.25" bl="131.25">2768244.swf<url>2768244.swf</url>
+      </source>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+    <resource><id>
+        2768244
+        </id><url>http://0101.static.prezi.com/media/d/0/0/e668a5bba64a0a46c41cd48c2fde75e4b5e54.swf</url></resource></object>
+    <object id="0" type="button" x="-11585.15" y="128581.15" r="0" s="4.924631595611572" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1171.05</w>
+        <h>533.4882022471911</h>
+      </size>
+    </object>
+    <object id="259" type="label" x="-10988.3" y="128523.65" r="0" s="9.277045249938965" class="head">
+      <textfield>
+        <x>-181.95</x>
+        <y>-47</y>
+        <text><![CDATA[Tejas Patel(080110107044)
+Sudeep Bora(080110107008)
+Harikrishna Ranpariya(080110107047)]]></text>
+        <annotations>r12-24 { color: #ff8000; }
+ r38-50 { color: #ff8000; }
+ r74-86 { color: #ff8000; }
+ r0-26 { align: left; }
+r26-52 { align: left; }
+r52-87 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="260" type="label" x="-13333.416375090846" y="128230.1553746468" r="0" s="9.268220278619912" class="head">
+      <textfield>
+        <x>-81.15</x>
+        <y>-15.35</y>
+        <text><![CDATA[Presented By:-]]></text>
+        <annotations>r0-14 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="7_1773267" type="button" x="-8131.479938947705" y="141813.06639069572" r="-3.710514956871591" s="6.828671720373216" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1312.9517578125</w>
+        <h>2283.69345703125</h>
+      </size>
+    </object>
+    <object id="3_1779751" type="button" x="-8138.4" y="141368" r="-3.738994403624957" s="8.878895812022396">
+      <type>invisible</type>
+      <size>
+        <w>782.4</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="0_1779751" type="image" x="-8146.40383290168" y="140883.05906579716" r="-3.553216529934718" s="4.203761001622044">
+      <source w="1326" h="495">135974640.PNG<url>135974640.PNG</url>
+      </source>
+      <sourceUrl>Flash Architecture.PNG</sourceUrl>
+    <resource><id>
+        135974640
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/4/4/5c2dff5fc947db1abe54b622f0de7af7322fa.PNG</url></resource></object>
+    <object id="1_1779751" type="image" x="-8192.596837997318" y="143353.1411805843" r="-3.514014233966925" s="3.467518757549133">
+      <source w="1148" h="337">135974701.PNG<url>135974701.PNG</url>
+      </source>
+      <sourceUrl>Page structure.PNG</sourceUrl>
+    <resource><id>
+        135974701
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/a/f/47833356ed67beaa3b19b248185ffb831a48c.PNG</url></resource></object>
+    <object id="258" type="label" x="-22922.871034460193" y="125127.4422885345" r="0" s="88.30999669443915" class="head">
+      <textfield>
+        <x>-182.45</x>
+        <y>-32</y>
+        <text><![CDATA[Project Presentation on
+NAND FLASH Translation Layer]]></text>
+        <annotations>r0-24 { align: center; }
+r24-52 { align: center; }</annotations>
+        <w>364.95</w>
+        <h>64</h>
+      </textfield>
+    </object>
+    <object id="0_1773267" type="label" x="-8405.475525326523" y="134784.69406615192" r="-3.7462509443674543" s="21.08375620031776" class="strong">
+      <textfield>
+        <x>-164.2</x>
+        <y>-16.9</y>
+        <text><![CDATA[Introduction to Flash memory]]></text>
+        <annotations>r0-28 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="2_1773267" type="label" x="-8293.972717641822" y="136430.33763922442" r="-3.7391860420075576" s="10.75700115927224" class="body">
+      <textfield>
+        <x>-265.2</x>
+        <y>-115.6</y>
+        <text><![CDATA[Flash memory is non-volatile computer storage chip ,that can be electrically erased and reprogrammed.
+
+There are two types Flash memory  classified on the basis of chip used.
+1)SLC(Single Level Chip)
+2)MLC(Multi level Chip)
+]]></text>
+        <annotations>r0-224 { color: #000; }
+r0-102 { align: left; }
+r103-175 { align: left; }
+r175-200 { align: left; }
+r200-224 { align: left; }</annotations>
+        <w>530.45</w>
+        <h>231.2</h>
+      </textfield>
+    </object>
+    <object id="2_1779751" type="label" x="-8477.32341479066" y="139061.98867260377" r="-3.7391970835234662" s="23.212614424307" class="strong">
+      <textfield>
+        <x>-166.95</x>
+        <y>-16.9</y>
+        <text><![CDATA[Flash Architecture]]></text>
+        <annotations>r0-18 { align: center; }</annotations>
+        <w>333.95</w>
+        <h>33.85</h>
+      </textfield>
+    </object>
+    <object id="7_1779751" type="button" x="-8452.521324362388" y="136462.85040819558" r="-3.5631184932608067" s="7.970623812663717">
+      <type>invisible</type>
+      <size>
+        <w>1078.4140969162995</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="8_1779751" type="button" x="-22969.348304202573" y="122099.597403758" r="0" s="25.554171159993416">
+      <type>invisible</type>
+      <size>
+        <w>1078.4140969162995</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="0_362410" type="label" x="-9397.843407104194" y="145552.28355394508" r="-3.995962310820388" s="23.58175280311984" class="head">
+      <textfield>
+        <x>-37.2</x>
+        <y>-17</y>
+        <text><![CDATA[Pros]]></text>
+        <annotations>r0-4 { align: center; }</annotations>
+        <w>74.45</w>
+        <h>34</h>
+      </textfield>
+    </object>
+    <object id="1_362410" type="label" x="-6440.034224668821" y="145344.52163025722" r="-3.995962310820388" s="23.58175280311984" class="head">
+      <textfield>
+        <x>-37.25</x>
+        <y>-17</y>
+        <text><![CDATA[Cons]]></text>
+        <annotations>r0-4 { align: center; }</annotations>
+        <w>74.55</w>
+        <h>34</h>
+      </textfield>
+    </object>
+    <object id="7_362410" type="shape" x="-10758.45" y="147448.95" r="86.25438934970491" s="6.015758784001551">
+      <geom type="line">
+        <sp>-289.32518416485834 0</sp>
+        <ep>289.32518416485834 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="8_362410" type="shape" x="-7647.7" y="147250.05" r="86.25043572195192" s="6.0157596919755445">
+      <geom type="line">
+        <sp>-289.5986204634689 0</sp>
+        <ep>289.59862046346893 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="9_362410" type="shape" x="-4788.15" y="147062.5" r="86.24503916166198" s="6.015756711705494">
+      <geom type="line">
+        <sp>-289.6230744156824 0</sp>
+        <ep>289.6230744156824 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="10_362410" type="shape" x="-7788.4" y="148597.5" r="-3.745824926692748" s="6.015503647150935">
+      <geom type="line">
+        <sp>-532.5424729556604 0</sp>
+        <ep>532.5424729556605 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="12_362410" type="shape" x="-7879.25" y="145854.8" r="-3.7476120745503865" s="11.790888612760211">
+      <geom type="line">
+        <sp>-271.08067153250823 0</sp>
+        <ep>271.08067153250823 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="22_362410" type="label" x="-7287.285004284503" y="148781.42334169606" r="-10.499898510519298" s="0.8720196211096252" class="body">
+      <textfield>
+        <x>-214.2</x>
+        <y>-16.4</y>
+        <text><![CDATA[(cc) image by anemoneprojectors on Flickr]]></text>
+        <annotations>r0-41 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="12_1779751" type="label" x="-9280.85" y="147290.6" r="-3.8432648026149496" s="8.587998742548601" class="strong">
+      <textfield>
+        <x>-184.7</x>
+        <y>-136.3</y>
+        <text><![CDATA[They are compact.
+They are Non-Volatile.
+Does not generate significant
+     heat.
+Requires less power to 
+     operate.
+Shock Resistance and
+Read, write latencies are 
+     very low 
+]]></text>
+        <annotations>r0-182 { color: #000; }
+ r0-18 { bullet: true; }
+r0-18 { align: left; }
+r0-18 { blockIndent: 36; }
+r18-41 { bullet: true; }
+r18-41 { align: left; }
+r18-41 { blockIndent: 36; }
+r41-71 { bullet: true; }
+r41-71 { align: left; }
+r41-71 { blockIndent: 36; }
+r71-82 { align: left; }
+r82-106 { bullet: true; }
+r82-106 { align: left; }
+r82-106 { blockIndent: 36; }
+r106-120 { align: left; }
+r120-141 { bullet: true; }
+r120-141 { align: left; }
+r120-141 { blockIndent: 36; }
+r141-168 { bullet: true; }
+r141-168 { align: left; }
+r141-168 { blockIndent: 36; }
+r168-183 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="13_1779751" type="label" x="-6447" y="146723.45" r="-3.842823590128884" s="8.582047167307806" class="strong">
+      <textfield>
+        <x>-161.2</x>
+        <y>-91.55</y>
+        <text><![CDATA[Erase-before-write 
+Limitation on the 
+     maximum number of 
+     erase/program cycles
+Asymmetric operations
+     speed
+]]></text>
+        <annotations>r0-121 { color: #000; }
+ r0-20 { bullet: true; }
+r0-20 { align: left; }
+r0-20 { blockIndent: 36; }
+r20-39 { bullet: true; }
+r20-39 { align: left; }
+r20-39 { blockIndent: 36; }
+r39-63 { align: left; }
+r63-89 { align: left; }
+r89-111 { bullet: true; }
+r89-111 { align: left; }
+r89-111 { blockIndent: 36; }
+r111-122 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="14_1779751" type="button" x="-7754.189686558872" y="147154.29250374265" r="-3.8416075805116385" s="7.721367299461655">
+      <type>invisible</type>
+      <size>
+        <w>1078.4140969162995</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="15_1779751" type="shape" x="-9782.7" y="132281.3" r="62.73685136479685" s="20.319811120309204" class="line3">
+      <geom type="arrow">
+        <sp>-114.39572749906716 -12.15</sp>
+        <ep>114.39572749906716 -12.15</ep>
+        <b>24.3</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="2_1776955" type="shape" x="-15775.605021416372" y="157874.1255308831" r="5.5021334229614505" s="94.91460494027186" class="poly3">
+      <geom type="poly">
+        <p x="-47" y="-63.5"/>
+        <p x="47" y="-63.5"/>
+        <p x="47" y="63.5"/>
+        <p x="-47" y="63.5"/>
+        <t>2</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="1_1776955" type="image" x="-15806.092404779496" y="157895.7296440355" r="5.502133198478448" s="16.929515074553958">
+      <source w="512" h="691">135997882.PNG<url>135997882.PNG</url>
+      </source>
+      <sourceUrl>FTL.PNG</sourceUrl>
+    <resource><id>
+        135997882
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/5/8/1a1f601f6e8562f980a4c45b33f918a1013be.PNG</url></resource></object>
+    <object id="22" type="image" x="-8351" y="152178" r="-55.66301301017185" s="6.154348864332172">
+      <source w="496" h="336">136489963.png<url>136489963.png</url>
+      </source>
+      <sourceUrl>USB_3.png</sourceUrl>
+    <resource><id>
+        136489963
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/5/2/992d07e9fa1de0741e6c4b80d9f9c155db295.png</url></resource></object>
+    <object id="4_1776955" type="label" x="-9624.85" y="154324.25" r="-25.74554042818824" s="8.582047697874716" class="head">
+      <textfield>
+        <x>-108.9</x>
+        <y>-17</y>
+        <text><![CDATA[Flash Translation Layer]]></text>
+        <annotations>r0-23 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="13_1776955" type="shape" x="-35051.549999999996" y="157586.00000000003" r="26.839936466934308" s="10.642323423924251" class="poly3">
+      <geom type="poly">
+        <p x="-218.522265625" y="-135.5203125"/>
+        <p x="218.522265625" y="-135.5203125"/>
+        <p x="218.522265625" y="135.5203125"/>
+        <p x="-218.522265625" y="135.5203125"/>
+        <t>2</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="11_1776955" type="image" x="-35056.95" y="157584.3" r="26.806249449073388" s="4.756033442859143">
+      <source w="962" h="593">136002396.png<url>136002396.png</url>
+      </source>
+      <sourceUrl>Page Level Mapping.png</sourceUrl>
+    <resource><id>
+        136002396
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/9/4/de4057d0b4e7db37ccb0da227bd3cf7df0991.png</url></resource></object>
+    <object id="14_1776955" type="shape" x="-30192.84999999999" y="160049.3" r="26.83993249506528" s="10.284038672543659" class="poly3">
+      <geom type="poly">
+        <p x="-207.0982666015626" y="-145.17001953125003"/>
+        <p x="207.0982666015626" y="-145.17001953125003"/>
+        <p x="207.0982666015626" y="145.17001953125003"/>
+        <p x="-207.0982666015626" y="145.17001953125003"/>
+        <t>2</t>
+        <r>0</r>
+      </geom>
+    </object>
+    <object id="12_1776955" type="image" x="-30180.85" y="160049.5" r="26.80736004816643" s="4.311477596653807">
+      <source w="964" h="669">136002397.PNG<url>136002397.PNG</url>
+      </source>
+      <sourceUrl>Addressing Technique.PNG</sourceUrl>
+    <resource><id>
+        136002397
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/6/e/3b05e8f87d48ef022a92642565a8dcdecc4d8.PNG</url></resource></object>
+    <object id="16_1776955" type="label" x="-31801.049999999985" y="156966.4" r="26.826298530697997" s="22.73006849300837" class="head">
+      <textfield>
+        <x>-93.45</x>
+        <y>-17</y>
+        <text><![CDATA[Page Level Mapping ]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="17_1776955" type="shape" x="-24057.65" y="159436.8" r="-10.007318846533824" s="23.224144192461125" class="line5">
+      <geom type="arrow">
+        <sp>161.53807321522387 -31.44999999999996</sp>
+        <ep>-161.53807321522387 -31.45000000000004</ep>
+        <b>-62.9</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="18_1776955" type="label" x="-24026.848323165093" y="159453.32224277957" r="-10.434491814657543" s="22.751555895356887" class="head">
+      <textfield>
+        <x>-92</x>
+        <y>-17</y>
+        <text><![CDATA[Address Translation]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="19_1776955" type="button" x="-31466.49999999999" y="154451.00000000003" r="26.89505265623574" s="3.456647383875836" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>948.4024879941712</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="0_22277386" type="shape" x="-32100.949999999993" y="154830.3" r="26.895057705470975" s="5.3649782444019">
+      <geom type="line">
+        <sp>-160.07480399635804 0</sp>
+        <ep>160.07480399635804 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="1_22277386" type="shape" x="-32544.34999999999" y="154180" r="-10.246537658312178" s="5.140886228585052">
+      <geom type="line">
+        <sp>-70.6005042198902 40.225</sp>
+        <ep>70.6005042198902 40.225</ep>
+        <b>-80.45</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="2_22277386" type="shape" x="-31170.449999999993" y="154814.05000000002" r="80.28711651313876" s="5.142517476393198">
+      <geom type="line">
+        <sp>74.88207370483245 40.8</sp>
+        <ep>-74.88207370483244 40.79999999999999</ep>
+        <b>81.6</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="3_22277386" type="shape" x="-31720.899999999998" y="154147.90000000002" r="23.76469639140051" s="5.362135659266717">
+      <geom type="line">
+        <sp>-74.95245949703715 35.75</sp>
+        <ep>74.95245949703715 35.75</ep>
+        <b>-71.5</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="4_22277386" type="shape" x="-30810.549999999996" y="154339.3" r="-25.01875745577642" s="1.8718960088216945">
+      <geom type="line">
+        <sp>-75.01131845005163 40.225</sp>
+        <ep>75.01131845005162 40.225</ep>
+        <b>-80.45</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="5_22277386" type="shape" x="-30509.849999999995" y="154356.5" r="2.6954601348104505" s="1.8893832673969966">
+      <geom type="line">
+        <sp>-81.35945208053903 35.75</sp>
+        <ep>81.35945208053903 35.75</ep>
+        <b>-71.5</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="6_22277386" type="shape" x="-30619.399999999998" y="154610.25" r="26.895057165000484" s="1.964571435829441">
+      <geom type="line">
+        <sp>-159.0441936902089 0</sp>
+        <ep>159.04419369020894 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="7_22277386" type="shape" x="-30326.049999999992" y="154565.75" r="72.1719500128714" s="1.8674601331970226">
+      <geom type="line">
+        <sp>94.36250225554528 40.8</sp>
+        <ep>-94.36250225554528 40.79999999999999</ep>
+        <b>81.6</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="8_22277386" type="label" x="-32507.299999999996" y="154290.15" r="26.89505735349116" s="6.547173126624175" class="strong">
+      <textfield>
+        <x>-46.8</x>
+        <y>-16.9</y>
+        <text><![CDATA[BAST]]></text>
+        <annotations>r0-4 { align: center; }</annotations>
+        <w>93.65</w>
+        <h>33.85</h>
+      </textfield>
+    </object>
+    <object id="9_22277386" type="shape" x="-31117" y="154029" r="-24.907243716271037" s="0.5757670085279493">
+      <geom type="line">
+        <sp>-75.26356050324831 40.225</sp>
+        <ep>75.26356050324833 40.225</ep>
+        <b>-80.45</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="10_22277386" type="shape" x="-31024.549999999996" y="154037.3" r="2.609671977213626" s="0.5813237339330029">
+      <geom type="line">
+        <sp>-81.1327241127376 35.75</sp>
+        <ep>81.1327241127376 35.75</ep>
+        <b>-71.5</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="11_22277386" type="shape" x="-31063.649999999994" y="154114.3" r="26.895054338129793" s="0.6052249195050715">
+      <geom type="line">
+        <sp>-159.0441936902089 0</sp>
+        <ep>159.04419369020894 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="12_22277386" type="shape" x="-30978.799999999996" y="154099.3" r="72.18720410611935" s="0.5743688421026859">
+      <geom type="line">
+        <sp>94.3875716950174 40.800000000000026</sp>
+        <ep>-94.3875716950174 40.799999999999976</ep>
+        <b>81.6</b>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="13_22277386" type="label" x="-30718.75" y="154463.15" r="26.895055755837404" s="2.3423416285015555" class="strong">
+      <textfield>
+        <x>-26</x>
+        <y>-16.9</y>
+        <text><![CDATA[DFTL]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="20_1776955" type="label" x="-31812.7" y="154183.55" r="26.89505735349116" s="6.547173126624175" class="strong">
+      <textfield>
+        <x>-46.8</x>
+        <y>-16.9</y>
+        <text><![CDATA[FAST]]></text>
+        <annotations>r0-4 { align: center; }</annotations>
+        <w>93.65</w>
+        <h>33.85</h>
+      </textfield>
+    </object>
+    <object id="21_1776955" type="label" x="-31370.549999999992" y="154847.05" r="26.895616422782933" s="6.540979282030043" class="strong">
+      <textfield>
+        <x>-26.5</x>
+        <y>-16.9</y>
+        <text><![CDATA[KAST]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="22_1776955" type="label" x="-31805.149999999998" y="154497.55" r="26.895616422782933" s="6.540979282030043" class="strong">
+      <textfield>
+        <x>-25.55</x>
+        <y>-16.9</y>
+        <text><![CDATA[LAST]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="23_1776955" type="label" x="-31974.35" y="154723.55" r="26.895648555449068" s="6.534799804670302" class="strong">
+      <textfield>
+        <x>-85.2</x>
+        <y>-16.9</y>
+        <text><![CDATA[SUPERBLOCK FTL]]></text>
+        <annotations>r0-14 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="24_1776955" type="label" x="-30537.499999999993" y="154410.75000000003" r="26.895055718282872" s="2.3423418950572095" class="strong">
+      <textfield>
+        <x>-43.35</x>
+        <y>-16.9</y>
+        <text><![CDATA[LazyFTL]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="25_1776955" type="label" x="-30415.050000000003" y="154584.9" r="26.895055718282872" s="2.3423418950572095" class="strong">
+      <textfield>
+        <x>-18.55</x>
+        <y>-16.9</y>
+        <text><![CDATA[FTL]]></text>
+        <annotations>r0-3 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="27_1776955" type="label" x="-30595.949999999997" y="154526.15" r="26.895055718282872" s="2.3423418950572095" class="strong">
+      <textfield>
+        <x>-24.1</x>
+        <y>-16.9</y>
+        <text><![CDATA[SFTL]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="28_1776955" type="label" x="-31103.5" y="154038.15" r="26.894816885666664" s="0.5180665736531495" class="strong">
+      <textfield>
+        <x>-33.15</x>
+        <y>-16.9</y>
+        <text><![CDATA[MNFTL]]></text>
+        <annotations>r0-5 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="29_1776955" type="label" x="-31040.449999999993" y="154047.8" r="26.894816885666664" s="0.5180665736531495" class="strong">
+      <textfield>
+        <x>-25.3</x>
+        <y>-16.9</y>
+        <text><![CDATA[CFTL]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="30_1776955" type="label" x="-31001" y="154093.65" r="26.895550543158542" s="0.5175727611374072" class="strong">
+      <textfield>
+        <x>-25.05</x>
+        <y>-16.9</y>
+        <text><![CDATA[SAST]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="31_1776955" type="label" x="-31090.499999999985" y="153991.05" r="26.895550543158542" s="0.5175727611374072" class="head">
+      <textfield>
+        <x>-98.85</x>
+        <y>-17</y>
+        <text><![CDATA[Hybrid Level Mapping]]></text>
+        <annotations>r0-20 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="32_1776955" type="button" x="-31889.249999999993" y="154205.90000000002" r="26.89555032164796" s="2.3992072055181435">
+      <type>invisible</type>
+      <size>
+        <w>1151.0971786833857</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="33_1776955" type="button" x="-30552.74999999999" y="154332.55" r="26.89545687180912" s="1.023420606023849">
+      <type>invisible</type>
+      <size>
+        <w>1151.0971786833857</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="34_1776955" type="button" x="-30595.949999999997" y="154369" r="26.89539187007007" s="0.9379649236663067">
+      <type>invisible</type>
+      <size>
+        <w>1151.0971786833857</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="35_1776955" type="button" x="-31051.199999999993" y="154041.75000000003" r="26.896128236587813" s="0.25636735255501947">
+      <type>invisible</type>
+      <size>
+        <w>1151.0971786833857</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="36_1776955" type="label" x="-32379.5" y="153853.7" r="26.89557861497176" s="3.2761683589568373" class="head">
+      <textfield>
+        <x>-93.1</x>
+        <y>-17</y>
+        <text><![CDATA[Block Level Mapping]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="37_1776955" type="label" x="-30735.400000000005" y="154222.50000000003" r="26.895580231669506" s="1.6731012933861087" class="head">
+      <textfield>
+        <x>-90.85</x>
+        <y>-17</y>
+        <text><![CDATA[Page Level Mapping]]></text>
+        <annotations>r0-18 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="43_1776955" type="image" x="-23836.4" y="146673.5" r="14.923040583248774" s="8.641331785226582">
+      <source w="1005" h="1281">136011325.png<url>136011325.png</url>
+      </source>
+      <sourceUrl>49049940.png</sourceUrl>
+    <resource><id>
+        136011325
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/7/c/4e5a4833541c5e0bdafa15ec4f7b3dcfb192e.png</url></resource></object>
+    <object id="45_1776955" type="image" x="-39773.85" y="147192.15" r="68.47281368301307" s="8.50546105106996">
+      <source w="1300" h="1056">136011414.png<url>136011414.png</url>
+      </source>
+      <sourceUrl>48885657.png</sourceUrl>
+    <resource><id>
+        136011414
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/2/8/8d472151363d5fb45d999f887104e00bf574b.png</url></resource></object>
+    <object id="44_1776955" type="image" x="-24293.38196256692" y="135325.89842046858" r="1.290625947309347" s="6.507138946741823">
+      <source w="1421" h="1701">136011405.png<url>136011405.png</url>
+      </source>
+      <sourceUrl>50006235.png</sourceUrl>
+    <resource><id>
+        136011405
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/c/d/62752ffd959c6022fb7786afc6aac08d084d3.png</url></resource></object>
+    <object id="46_1776955" type="label" x="-24120.22925961997" y="130600.92252847832" r="1.4111299490838252" s="63.00432367975706" class="head">
+      <textfield>
+        <x>-39.4</x>
+        <y>-17</y>
+        <text><![CDATA[Analysis]]></text>
+        <annotations>r0-8 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="47_1776955" type="button" x="-23944.162844043905" y="133181.33485928233" r="1.9005413253619656" s="2.9873657498058446" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="48_1776955" type="label" x="-23946.57909354121" y="133229.34005150094" r="1.9005831722533932" s="14.420766640309724" class="head">
+      <textfield>
+        <x>-61.8</x>
+        <y>-32</y>
+        <text><![CDATA[Performance Metrices]]></text>
+        <annotations>r0-20 { align: center; }</annotations>
+        <w>123.6</w>
+        <h>64</h>
+      </textfield>
+    </object>
+    <object id="49_1776955" type="shape" x="-25539.85" y="133178.45" r="-24.542614264796338" s="5.794496713625411" class="line5">
+      <geom type="arrow">
+        <sp>95.48870124624833 0</sp>
+        <ep>-95.4887012462483 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="50_1776955" type="shape" x="-24063.65" y="134769.85" r="-86.76510634544695" s="5.7944965864571785" class="line5">
+      <geom type="arrow">
+        <sp>95.48870124624833 0</sp>
+        <ep>-95.48870124624833 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="51_1776955" type="shape" x="-22388.45" y="133141.5" r="-150.3710684948633" s="5.794496547771826" class="line5">
+      <geom type="arrow">
+        <sp>95.48870124624833 0</sp>
+        <ep>-95.48870124624833 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="52_1776955" type="label" x="-26176.63524723523" y="133630.01107108433" r="14.923040503228231" s="14.403786794465644" class="strong">
+      <textfield>
+        <x>-90.55</x>
+        <y>-16.9</y>
+        <text><![CDATA[Block Utilization]]></text>
+        <annotations>r0-17 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="53_1776955" type="label" x="-24081.356069177946" y="135419.03062535755" r="1.8852414120080696" s="14.38661840746656" class="strong">
+      <textfield>
+        <x>-128.9</x>
+        <y>-16.9</y>
+        <text><![CDATA[Average Response Time]]></text>
+        <annotations>r0-21 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="54_1776955" type="label" x="-21695.451822907413" y="133459.84314692818" r="-24.54261377022646" s="14.403787558494964" class="strong">
+      <textfield>
+        <x>-95.1</x>
+        <y>-16.9</y>
+        <text><![CDATA[Erase Operations]]></text>
+        <annotations>r0-16 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="55_1776955" type="button" x="-25930.2" y="137819.8" r="1.4110877920777565" s="4.461611498875714" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>852.0340163934427</w>
+        <h>591.65</h>
+      </size>
+    </object>
+    <object id="56_1776955" type="button" x="-21910" y="137922.7" r="1.4110876964268093" s="4.461611498692237" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>909.8360655737704</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="3_2065275" type="image" x="-25954.1" y="137810.05" r="1.411129528666925" s="3.6483575846306113">
+      <source w="898" h="537">136899266.png<url>136899266.png</url>
+      </source>
+      <sourceUrl>Block Utilization_new copy.png</sourceUrl>
+    <resource><id>
+        136899266
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/8/b/9265e1e6cd0318bbb443a5353d2b5891d2315.png</url></resource></object>
+    <object id="59_1776955" type="label" x="-25897.449999999997" y="136674.25" r="1.411129453295222" s="14.369681030605632" class="strong">
+      <textfield>
+        <x>-90.55</x>
+        <y>-16.9</y>
+        <text><![CDATA[Block Utilization]]></text>
+        <annotations>r0-17 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="2_2065275" type="image" x="-21909.9" y="137923" r="1.4111293969748182" s="3.726187899601825">
+      <source w="948" h="553">136899262.png<url>136899262.png</url>
+      </source>
+      <sourceUrl>Avg_response _time copy.png</sourceUrl>
+    <resource><id>
+        136899262
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/9/2/6409174bc0ee86e40f679afcd72febad18f89.png</url></resource></object>
+    <object id="60_1776955" type="label" x="-21864" y="136727.2" r="1.4111293345013922" s="14.369681029871714" class="strong">
+      <textfield>
+        <x>-107.1</x>
+        <y>-16.9</y>
+        <text><![CDATA[Avg. Response Time]]></text>
+        <annotations>r0-18 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="63_1776955" type="label" x="-22948.2" y="143452.35" r="14.923040549538841" s="41.66974790922226" class="head">
+      <textfield>
+        <x>-98.6</x>
+        <y>-32</y>
+        <text><![CDATA[Conclusion And 
+Future Offshoots]]></text>
+        <annotations>r0-16 { align: center; }
+r16-32 { align: center; }</annotations>
+        <w>197.25</w>
+        <h>64</h>
+      </textfield>
+    </object>
+    <object id="64_1776955" type="shape" x="-40998.35" y="155493.2" r="60.83443567481448" s="23.19107463053203" class="line5">
+      <geom type="arrow">
+        <sp>160.23480476475035 -38.22499999999997</sp>
+        <ep>-160.23480476475032 -38.22500000000003</ep>
+        <b>-76.45</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="1" type="image" x="-38686" y="145943.8" r="68.46801573891473" s="6.057441532176518">
+      <source w="743" h="666">137248494.PNG<url>137248494.PNG</url>
+      </source>
+      <sourceUrl>write Operation.PNG</sourceUrl>
+    <resource><id>
+        137248494
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/2/a/844b2596b6f32a7ab1b62a1df3b75b7109689.PNG</url></resource></object>
+    <object id="67_1776955" type="label" x="-36431.6" y="144935.25" r="68.47277694028729" s="22.26133254553429" class="strong">
+      <textfield>
+        <x>-125.55</x>
+        <y>-16.9</y>
+        <text><![CDATA[Read & Write Operation]]></text>
+        <annotations>r0-22 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="69_1776955" type="label" x="-24109.3" y="147433.35" r="14.923040379281634" s="11.59047483608862" class="strong">
+      <textfield>
+        <x>-276</x>
+        <y>-181.1</y>
+        <text><![CDATA[GroupFTL reduces space demand for caching mapping table
+ GroupFTL exploits only readily available spatial locality
+ GroupFTL does not impose strict mapping rule and hence does not impose additional garbage collection cost.
+As with help of GroupFTL we can write whole block , if a cache is available ,so in future  a efficient caching algorithm can be implemented to achieve better hit ratio in cache.]]></text>
+        <annotations>r0-56 { bullet: true; }
+r0-56 { align: left; }
+r0-56 { blockIndent: 36; }
+r56-115 { bullet: true; }
+r56-115 { align: left; }
+r56-115 { blockIndent: 36; }
+r115-223 { bullet: true; }
+r115-223 { align: left; }
+r115-223 { blockIndent: 36; }
+r223-400 { bullet: true; }
+r223-400 { align: left; }
+r223-400 { blockIndent: 36; }</annotations>
+        <w>552</w>
+        <h>362.2</h>
+      </textfield>
+    </object>
+    <object id="84_1776955" type="image" x="-42455.35" y="147493" r="68.46803585731857" s="4.8735748919345125">
+      <source w="1035" h="624">136029674.PNG<url>136029674.PNG</url>
+      </source>
+      <sourceUrl>Operations.PNG</sourceUrl>
+    <resource><id>
+        136029674
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/6/a/f37484cd002f5ef32c2aa419ab6e1181e1676.PNG</url></resource></object>
+    <object id="71_1776955" type="shape" x="-42327.15" y="147843.1" r="-21.524229044864807" s="8.112727403172247" class="line3">
+      <geom type="line">
+        <sp>185.8750016812374 0</sp>
+        <ep>-185.8750016812374 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="72_1776955" type="label" x="-42259.30000000001" y="148012.95" r="157.6792048179837" s="5.794807532831251" class="strong">
+      <textfield>
+        <x>-114.7</x>
+        <y>-16.9</y>
+        <text><![CDATA[Cache( SRAM / DRAM)]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="73_1776955" type="label" x="-42377" y="147714.60000000003" r="-21.53111055905825" s="5.788266037162331" class="strong">
+      <textfield>
+        <x>-75.15</x>
+        <y>-16.9</y>
+        <text><![CDATA[Flash Memory]]></text>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="74_1776955" type="shape" x="-41731.15" y="147339.85" r="73.07185825567362" s="2.956533306472322" class="line5">
+      <geom type="arrow">
+        <sp>-341.0132564973979 0</sp>
+        <ep>341.0132564973979 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="75_1776955" type="shape" x="-42422.7" y="148123.7" r="13.313880454946863" s="2.9543760613612466" class="line5">
+      <geom type="arrow">
+        <sp>320.3135806807363 0</sp>
+        <ep>-320.3135806807363 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="76_1776955" type="shape" x="-43203.950000000004" y="146492.50000000003" r="117.06855312971767" s="2.950452172779305" class="line5">
+      <geom type="arrow">
+        <sp>-252.30439109711577 0</sp>
+        <ep>252.30439109711577 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="77_1776955" type="shape" x="-42421" y="146985.85" r="-13.146775209456651" s="2.948256074207673" class="line5">
+      <geom type="arrow">
+        <sp>-386.1964474642256 0</sp>
+        <ep>386.1964474642257 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="78_1776955" type="shape" x="-42622.95" y="146285.45" r="13.287840286735001" s="2.9460949320466603" class="line5">
+      <geom type="arrow">
+        <sp>442.57991171525424 0</sp>
+        <ep>-442.57991171525424 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="79_1776955" type="label" x="-41630.50000000001" y="147387.75" r="68.47277035327666" s="5.781766480561208" class="strong">
+      <textfield>
+        <x>-13.6</x>
+        <y>-16.9</y>
+        <text><![CDATA[(1)]]></text>
+        <annotations>r0-3 { color: #6fcc00; }
+r0-3 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="80_1776955" type="label" x="-42368.80000000001" y="148255.84999999998" r="68.47277035327666" s="5.781766480561208" class="strong">
+      <textfield>
+        <x>-14.8</x>
+        <y>-16.9</y>
+        <text><![CDATA[(2)]]></text>
+        <annotations>r0-3 { color: #6fcc00; }
+r0-3 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="81_1776955" type="label" x="-43443.30000000001" y="146769.55" r="68.47277035327666" s="5.781766480561208" class="strong">
+      <textfield>
+        <x>-14.3</x>
+        <y>-16.9</y>
+        <text><![CDATA[(3)]]></text>
+        <annotations>r0-3 { color: #6fcc00; }
+r0-3 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="82_1776955" type="label" x="-42488.75000000001" y="146908.4" r="68.47277035327666" s="5.781766480561208" class="strong">
+      <textfield>
+        <x>-14.45</x>
+        <y>-16.9</y>
+        <text><![CDATA[(4)]]></text>
+        <annotations>r0-3 { color: #6fcc00; }
+r0-3 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="83_1776955" type="label" x="-43150.5" y="146053.29999999996" r="68.47277035327666" s="5.781766480561208" class="strong">
+      <textfield>
+        <x>-14</x>
+        <y>-16.9</y>
+        <text><![CDATA[(5)]]></text>
+        <annotations>r0-3 { color: #6fcc00; }
+r0-3 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="85_1776955" type="label" x="-33377.850000000006" y="135931.25" r="107.65018439221242" s="62.93360542994861" class="strong">
+      <textfield>
+        <x>-73.5</x>
+        <y>-16.9</y>
+        <text><![CDATA[GUI Simulator]]></text>
+        <annotations>r0-13 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="86_1776955" type="button" x="-36316.40000000001" y="130364.50000000001" r="117.05606012361169" s="3.759255648444675" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="87_1776955" type="button" x="-39193.25" y="139430.4" r="63.37837428565624" s="3.76851083750859" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="88_1776955" type="button" x="-41715.25000000001" y="137116.2" r="83.91005278887728" s="3.7685109581195024" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="89_1776955" type="button" x="-41371.85" y="133844.95" r="108.45104668947207" s="3.768510844000253" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="90_1776955" type="button" x="-39501.600000000006" y="131033.30000000003" r="124.57006937294825" s="3.7634974426761425" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="91_1776955" type="shape" x="-34772.900000000016" y="133592.85" r="68.48223137701291" s="22.71563853233494" class="line5">
+      <geom type="arrow">
+        <sp>101.1250030902348 0</sp>
+        <ep>-101.1250030902348 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="92_1776955" type="shape" x="-36140.35000000001" y="133806.85000000003" r="41.0385740543073" s="22.715638269568082" class="line5">
+      <geom type="arrow">
+        <sp>128.94635512491232 0</sp>
+        <ep>-128.94635512491232 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="93_1776955" type="shape" x="-36987.35000000001" y="135007.75" r="13.298839327466732" s="22.71563854218963" class="line5">
+      <geom type="arrow">
+        <sp>138.27255919017338 0</sp>
+        <ep>-138.27255919017338 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="94_1776955" type="shape" x="-37182.75000000001" y="136318.6" r="-10.252902303505282" s="22.71563769116406" class="line5">
+      <geom type="arrow">
+        <sp>145.45935858513886 0</sp>
+        <ep>-145.45935858513883 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="95_1776955" type="shape" x="-36009.50000000001" y="137269.5" r="143.4920838454592" s="22.715638692942683" class="line5">
+      <geom type="arrow">
+        <sp>-113.86760129641794 0</sp>
+        <ep>113.86760129641794 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="0_67395" type="button" x="-37249.3" y="136527.45" r="107.65018321365372" s="16.127957069465214">
+      <type>invisible</type>
+      <size>
+        <w>1078.4140969162995</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="1_67395" type="button" x="-23973.15" y="133783.4" r="1.900583172253393" s="6.35757624895715">
+      <type>invisible</type>
+      <size>
+        <w>1078.4140969162995</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="2_67395" type="button" x="0" y="0" r="0" s="752.5215454101563">
+      <type>invisible</type>
+      <size>
+        <w>1078.4140969162995</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="3_67395" type="image" x="-190642.67007754996" y="-2030.1800031032349" r="0" s="438.5633635708467">
+      <source w="500" h="332">136047920.jpe<url>136047920.jpe</url>
+      </source>
+    <resource><id>
+        136047920
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/9/2/5/ceedf66ec7ebd4456b36b776a455d9e0f5765.jpe</url></resource></object>
+    <object id="42_1776955" type="image" x="-194637.15" y="-2051.65" r="-88.45834132945875" s="105.77224960715665">
+      <source w="1800" h="2400">136011322.png<url>136011322.png</url>
+        <mask x="0" y="0" w="1800" h="2354"/>
+      </source>
+      <sourceUrl>48886567.png</sourceUrl>
+    <resource><id>
+        136011322
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/b/0/2fde19f18080104b82193f46ca3bee8c6403e.png</url></resource></object>
+    <object id="4_67395" type="label" x="-104392.85" y="-2045.05" r="0" s="499.7718505859375" class="strong">
+      <textfield>
+        <x>-9.2</x>
+        <y>-151.25</y>
+        <text><![CDATA[Q
+u
+e
+s
+t
+i
+o
+n
+s
+?]]></text>
+        <annotations>r0-2 { align: left; }
+r2-4 { align: left; }
+r4-6 { align: left; }
+r6-8 { align: left; }
+r8-10 { align: left; }
+r10-12 { align: left; }
+r12-14 { align: left; }
+r14-16 { align: left; }
+r16-18 { align: left; }
+r18-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="6_67395" type="button" x="-104359.85" y="26359.6" r="0" s="470.1319048801771">
+      <type>invisible</type>
+      <size>
+        <w>1078.4140969162995</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="12" type="image" x="-35712.250000000015" y="130580.90000000001" r="107.55477635127332" s="1.0316204572318992">
+      <source w="1080" h="584">136489625.png<url>136489625.png</url>
+      </source>
+      <sourceUrl>p16.png</sourceUrl>
+    <resource><id>
+        136489625
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/6/a/886f5e24bd20e98b0b1030472725fa73f2147.png</url></resource></object>
+    <object id="14" type="image" x="-42260.650000000016" y="136945.55000000005" r="107.55464549453106" s="1.3365941808654502">
+      <source w="1167" h="767">136489632.png<url>136489632.png</url>
+      </source>
+      <sourceUrl>p14.png</sourceUrl>
+    <resource><id>
+        136489632
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/d/8/37f1edb31163dc4c77e7142931a33f01e67ac.png</url></resource></object>
+    <object id="15" type="image" x="-41265.950000000004" y="137258.25" r="107.55464549453106" s="1.3365941808654502">
+      <source w="1167" h="567">136489638.png<url>136489638.png</url>
+      </source>
+      <sourceUrl>p13.png</sourceUrl>
+    <resource><id>
+        136489638
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/f/5/2cd24e9b725c7ec0a4a32e6fdce0a977e1ebb.png</url></resource></object>
+    <object id="16" type="image" x="-41442.450000000004" y="133775.9" r="107.55464485539777" s="2.0330886836174793">
+      <source w="1167" h="567">136489640.png<url>136489640.png</url>
+      </source>
+      <sourceUrl>p12.png</sourceUrl>
+    <resource><id>
+        136489640
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/f/6/f3f98479601410ea60523809ce22c422c5122.png</url></resource></object>
+    <object id="13" type="image" x="-39202.4" y="139374.1" r="107.5546349057877" s="2.4907961867219646">
+      <source w="999" h="585">136489633.png<url>136489633.png</url>
+      </source>
+      <sourceUrl>p15.png</sourceUrl>
+    <resource><id>
+        136489633
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/0/a/e03b46a68508ab1608315637a855b78435d7b.png</url></resource></object>
+    <object id="17" type="image" x="-39503.400000000016" y="131032.40000000002" r="107.53071021310134" s="2.167517735042089">
+      <source w="1168" h="567">136489641.png<url>136489641.png</url>
+      </source>
+      <sourceUrl>p11.png</sourceUrl>
+    <resource><id>
+        136489641
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/5/4/2679fe524c0622a573762d3fc08616d9d5b06.png</url></resource></object>
+    <object id="24" type="image" x="-36975.70000000001" y="130098.90000000001" r="107.55464154417719" s="0.7771614322023634">
+      <source w="1024" h="768">136489977.PNG<url>136489977.PNG</url>
+      </source>
+      <sourceUrl>NF12.PNG</sourceUrl>
+    <resource><id>
+        136489977
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/6/1/37b8d812055ebf503019ca2469f8ebaa96af4.PNG</url></resource></object>
+    <object id="23" type="image" x="-36186.45000000001" y="129756.20000000001" r="107.55464154417719" s="0.7771614322023634">
+      <source w="1024" h="768">136489972.PNG<url>136489972.PNG</url>
+      </source>
+      <sourceUrl>NW12.PNG</sourceUrl>
+    <resource><id>
+        136489972
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/0/9/8b2b4b25118304012f2e05c2a36910fd5cb93.PNG</url></resource></object>
+    <object id="25" type="image" x="-36499.65" y="130746.25" r="107.55464154417719" s="0.7771614322023634">
+      <source w="1024" h="768">136489993.PNG<url>136489993.PNG</url>
+      </source>
+      <sourceUrl>NF22.PNG</sourceUrl>
+    <resource><id>
+        136489993
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/e/7/f5feea29619a485da3ac5f4c5852eaa0f6d9d.PNG</url></resource></object>
+    <object id="26" type="button" x="-36661.500000000015" y="130232.75000000001" r="107.53074443962996" s="2.026028509792427">
+      <type>invisible</type>
+      <size>
+        <w>1078.4140969162995</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="27" type="button" x="-41367.750000000015" y="137234.5" r="107.53105843185784" s="1.918146384313297">
+      <type>invisible</type>
+      <size>
+        <w>1078.4140969162995</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="3_1776955" type="shape" x="-8533.1" y="152699.35" r="-53.34362981700906" s="23.23785344183759" class="line5">
+      <geom type="arrow">
+        <sp>159.79259232861526 -37.29999999999998</sp>
+        <ep>-159.79259232861529 -37.30000000000002</ep>
+        <b>-74.6</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="28" type="label" x="-13503.35" y="129043.8" r="0" s="9.26821994781494" class="head">
+      <textfield>
+        <x>-72.35</x>
+        <y>-17</y>
+        <text><![CDATA[Internal Guide:-]]></text>
+        <annotations>r0-16 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="29" type="label" x="-11834.85" y="129053.05" r="0" s="9.277045249938965" class="head">
+      <textfield>
+        <x>-90.8</x>
+        <y>-17</y>
+        <text><![CDATA[Prof. Hetal Gaudani]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="30" type="label" x="-13504.3" y="129280.9" r="0" s="9.26821994781494" class="head">
+      <textfield>
+        <x>-73.25</x>
+        <y>-17</y>
+        <text><![CDATA[External Guide:-]]></text>
+        <annotations>r0-16 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="31" type="label" x="-11852.7" y="129294.95" r="0" s="9.277045249938965" class="head">
+      <textfield>
+        <x>-85.3</x>
+        <y>-17</y>
+        <text><![CDATA[Mr. Tejas Vaghela]]></text>
+        <annotations>r0-17 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="32" type="label" x="-12023.1" y="129543.95" r="0" s="4.7331695556640625" class="body">
+      <textfield>
+        <x>-124.2</x>
+        <y>-30.4</y>
+        <text><![CDATA[Manager System Level Solution(SLSCorp)]]></text>
+        <annotations>r0-38 { color: #000; }
+r0-38 { align: left; }</annotations>
+        <w>248.4</w>
+        <h>60.8</h>
+      </textfield>
+    </object>
+    <object id="33" type="label" x="-36484.200000000004" y="129599.85000000002" r="107.53083873215219" s="1.9981060683523957" class="head">
+      <textfield>
+        <x>-59.65</x>
+        <y>-17</y>
+        <text><![CDATA[Web Search1]]></text>
+        <annotations>r0-11 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="34" type="label" x="-36856.500000000015" y="130738.00000000001" r="107.53083873215219" s="1.9981060683523957" class="head">
+      <textfield>
+        <x>-49.6</x>
+        <y>-17</y>
+        <text><![CDATA[Financial2]]></text>
+        <annotations>r0-10 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="35" type="label" x="-37300.750000000015" y="130383.49999999999" r="107.53083873215219" s="1.9981060683523957" class="head">
+      <textfield>
+        <x>-47.2</x>
+        <y>-17</y>
+        <text><![CDATA[Financial1]]></text>
+        <annotations>r0-10 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="36" type="label" x="-38873.50000000001" y="131175.75" r="107.53083950227358" s="5.482803210855622" class="head">
+      <textfield>
+        <x>-83.9</x>
+        <y>-17</y>
+        <text><![CDATA[FTL Configuration]]></text>
+        <annotations>r0-17 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="37" type="label" x="-40859.65" y="133932.5" r="107.53083923983183" s="3.916287894931159" class="head">
+      <textfield>
+        <x>-90</x>
+        <y>-17</y>
+        <text><![CDATA[Cache Configuration]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="38" type="label" x="-40848.00000000001" y="137330.05000000002" r="107.53083923983183" s="3.916287894931159" class="head">
+      <textfield>
+        <x>-39.4</x>
+        <y>-17</y>
+        <text><![CDATA[Analysis]]></text>
+        <annotations>r0-8 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="39" type="label" x="-38584.3" y="139589.85" r="107.53083923983183" s="3.916287894931159" class="head">
+      <textfield>
+        <x>-79.55</x>
+        <y>-17</y>
+        <text><![CDATA[Graph Generation]]></text>
+        <annotations>r0-16 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="4_2065275" type="button" x="-24627.85" y="147495.3" r="14.92304058324877" s="10.377699390820547">
+      <type>invisible</type>
+      <size>
+        <w>1078.4140969162995</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="2" type="shape" x="-38561.95" y="146231.8" r="-21.524229044864807" s="8.112727403172247" class="line3">
+      <geom type="line">
+        <sp>247.10625042030935 0</sp>
+        <ep>-247.10625042030935 0</ep>
+        <t>8</t>
+      </geom>
+    </object>
+    <object id="3" type="label" x="-38655.8" y="146425" r="157.6792048179837" s="5.794807532831252" class="strong">
+      <textfield>
+        <x>-114.7</x>
+        <y>-16.9</y>
+        <text><![CDATA[Cache( SRAM / DRAM)]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="4" type="label" x="-38747.2" y="146160.9" r="-21.531110559058252" s="5.788266037162331" class="strong">
+      <textfield>
+        <x>-75.15</x>
+        <y>-16.9</y>
+        <text><![CDATA[Flash Memory]]></text>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="5" type="shape" x="-37478.4" y="145616.95" r="65.68097707959936" s="2.94825595637695" class="line5">
+      <geom type="arrow">
+        <sp>-280.8656821088703 0</sp>
+        <ep>280.8656821088703 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="6" type="shape" x="-38607.35" y="146430.15" r="175.2968153877999" s="2.9482560193271024" class="line5">
+      <geom type="arrow">
+        <sp>-482.54487748232737 0</sp>
+        <ep>482.54487748232737 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="7" type="shape" x="-39123.85" y="146187.1" r="92.13805163167315" s="2.948255935902509" class="line5">
+      <geom type="arrow">
+        <sp>-302.9448050067933 0</sp>
+        <ep>302.94480500679333 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="8" type="shape" x="-39695.1" y="146846.2" r="-156.5069747280062" s="2.9482560602480827" class="line5">
+      <geom type="arrow">
+        <sp>-198.98729759516294 0</sp>
+        <ep>198.98729759516294 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="9" type="label" x="-37445.35" y="145453.1" r="68.47277035327666" s="5.781766480561208" class="strong">
+      <textfield>
+        <x>-13.6</x>
+        <y>-16.9</y>
+        <text><![CDATA[(1)]]></text>
+        <annotations>r0-3 { color: #6fcc00; }
+r0-3 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="10" type="label" x="-37846.35" y="146284.75" r="68.47277035327666" s="5.781766480561208" class="strong">
+      <textfield>
+        <x>-14.8</x>
+        <y>-16.9</y>
+        <text><![CDATA[(2)]]></text>
+        <annotations>r0-3 { color: #6fcc00; }
+r0-3 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="11" type="label" x="-39452.8" y="146850.6" r="68.47277035327666" s="5.781766480561208" class="strong">
+      <textfield>
+        <x>-14.8</x>
+        <y>-16.9</y>
+        <text><![CDATA[(2)]]></text>
+        <annotations>r0-3 { color: #6fcc00; }
+r0-3 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="18" type="label" x="-38969.25" y="145730.25" r="68.47277035327666" s="5.781766480561208" class="strong">
+      <textfield>
+        <x>-13.6</x>
+        <y>-16.9</y>
+        <text><![CDATA[(1)]]></text>
+        <annotations>r0-3 { color: #6fcc00; }
+r0-3 { align: left; }</annotations>
+      </textfield>
+    </object>
+  </zui-table>
+  <path>
+    <o>8_1779751</o>
+    <o>0</o>
+    <o>7_1779751</o>
+    <o>3_1779751</o>
+    <o>14_1779751</o>
+    <o>22</o>
+    <o>4_1776955</o>
+    <o>2_1776955</o>
+    <o>18_1776955</o>
+    <o>32_1776955</o>
+    <o>34_1776955</o>
+    <o>35_1776955</o>
+    <o>120</o>
+    <o>13_1776955</o>
+    <o>14_1776955</o>
+    <o>45_1776955</o>
+    <o>1</o>
+    <o>84_1776955</o>
+    <o>0_67395</o>
+    <o>12</o>
+    <o>26</o>
+    <o>17</o>
+    <o>16</o>
+    <o>27</o>
+    <o>14</o>
+    <o>13</o>
+    <o>44_1776955</o>
+    <o>1_67395</o>
+    <o>55_1776955</o>
+    <o>56_1776955</o>
+    <o>43_1776955</o>
+    <o>4_2065275</o>
+    <o>6_67395</o>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('LobsterTwo.swf');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('accidentalpresident.swf');
+	fontFamily: danielbd;
+}
+
+@font-face
+{
+	src: url('LoveYaLikeASister.swf');
+	fontFamily: strong;
+}
+
+@font-face
+{
+	src: url('existence-unicaselight.swf');
+	fontFamily: existence;
+}
+
+@font-face
+{
+	src: url('smallfatmarker.swf');
+	fontFamily: accidentalpresident;
+}
+
+ZCurveLine
+{
+	thickness: 0;
+	color: #333;
+	alpha: 0.5;
+}
+
+ZArrow
+{
+	thickness: 10;
+	color: #e16a3f;
+	alpha: 1;
+}
+
+.line3
+{
+	gradStartColor: #e16a3f;
+	gradEndColor: #e16a3f;
+	color: #e16a3f;
+}
+
+.poly3
+{
+	borderColor: #e16a3f;
+}
+
+ZMarker
+{
+	thickness: 20;
+	color: #ff0;
+	alpha: 0.3;
+}
+
+ZPath
+{
+	thickness: 5;
+	alpha: 0.8;
+	color: #78c46f;
+}
+
+ZPath Ball.base
+{
+	radius: 10;
+	fillColor: #ff9;
+	alpha: 0.8;
+}
+
+ZPath Ball.mid
+{
+	radius: 5;
+	fillColor: #ff9;
+	alpha: 0.8;
+}
+
+ZFrame.circle
+{
+	thickness: 25;
+	alpha: 1;
+	color: #e65b00;
+}
+
+.line4
+{
+	gradStartColor: #e65b00;
+	gradEndColor: #e65b00;
+	color: #e65b00;
+}
+
+.poly4
+{
+	borderColor: #e65b00;
+}
+
+ZFrame.bracket
+{
+	thickness: 10;
+	alpha: 0.7;
+	color: #444;
+}
+
+.line2
+{
+	gradStartColor: #444;
+	gradEndColor: #444;
+	color: #444;
+}
+
+.poly2
+{
+	borderColor: #444;
+}
+
+ZFrame.roundrect
+{
+	thickness: 20;
+	radius: 50;
+	color: #fff;
+	alpha: 0.7;
+}
+
+ZVideo
+{
+	padding: 1.2;
+}
+
+Grid
+{
+	color: #bbb;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+ZLabel.strong
+{
+	fontFamily: strong;
+	padding: 1.2;
+	color: #e65b00;
+}
+
+.line1
+{
+	gradStartColor: #e65b00;
+	gradEndColor: #e65b00;
+	color: #e65b00;
+}
+
+.poly1
+{
+	borderColor: #e65b00;
+}
+
+ZLabel.head
+{
+	fontFamily: head;
+	padding: 1.2;
+	color: #397ef0;
+}
+
+.line5
+{
+	gradStartColor: #397ef0;
+	gradEndColor: #397ef0;
+	color: #397ef0;
+}
+
+.poly5
+{
+	borderColor: #397ef0;
+}
+
+ZLabel.body
+{
+	fontFamily: existence;
+	padding: 1.2;
+	color: #666;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZCircle
+{
+	thickness: 100;
+	color: #fff;
+	borderColor: #000;
+	radius: 0;
+	alpha: 0.8;
+	borderAlpha: 1;
+	borderThickness: 5;
+}
+
+ZPoly
+{
+	thickness: 100;
+	color: #fff;
+	borderColor: #000;
+	radius: 0;
+	alpha: 0.8;
+	borderAlpha: 1;
+	borderThickness: 5;
+}
+
+]]></style>
+  <hash>248e8f8ad15e6d983f43c1f2243b9a4d</hash>
+<sync><oid>yuz8nrmqj5z4</oid><hash>248e8f8ad15e6d983f43c1f2243b9a4d</hash></sync><config>Ig7GKosKjf/AnZdqLDzzTbjZGd9EJ+fcBvEtm92lMC2D1dchfcmO4I9hg6RqKMIitJOj5dNpA0GsMM+LOPJDw3RebijyclmFvIu6SuPNNmvFR+Okc0VUd+eG6/8awaX1q6Gc28i5qQFlHoSO7FKzU4oXW7XkVsq+ynMktvZjObLWlNvw+UFKL+f0Sg5cEg9PzSPHD0x6vsaJvCTK2RSIT5GkfF1WBjZZhuTlcyNrPoq83IhuqRss8vvnEJIIloMlFQz6XXm33L7rKgmY6YemuwYO6Kj3Yx8afTZgmIbHWne1lFwP71pBR+dGbdqS2AiLQjA9fwn9XfAVQB1uiSwiGg==</config></zuiprezi>
